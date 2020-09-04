@@ -1,16 +1,22 @@
-### Hi there 👋
+###  🪐  Gustavo Serpeloni -- @gserpeloni
+![l01](https://github.com/gserpeloni/images/blob/master/lines/linear_gradient2.png?raw=true)
 
-<!--
-**gserpeloni/gserpeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Gustavo -- a junior developer and student of São Paulo State University.
+I look opportunities to improve my programming skills and use creativity to design good frontend applications. I like to program logical circuits such as RaspberryPi and  study new current technologies.
 
-Here are some ideas to get you started:
+##### ✨ - My Values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Facility on creating solutions and inovations.<br>
+> Enjoys to meet new people and increase network contacts.
+
+
+<br>
+##### 🌱 - I’m currently learning:
+> Nodejs<br>React Js<br>Javascript
+
+<br>
+##### ⚡ - Currently working on:
+
+```xml
+ * Personal Projects and Study about stacks above
+```
