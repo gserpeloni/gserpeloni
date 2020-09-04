@@ -6,17 +6,15 @@ I look opportunities to improve my programming skills and use creativity to desi
 
 ##### ✨ - My Values
 
-> Facility on creating solutions and inovations.<br>
+> Facility on creating solutions and inovations.
 > Enjoys to meet new people and increase network contacts.
-
-
-<br>
 ##### 🌱 - I’m currently learning:
-> Nodejs<br>React Js<br>Javascript
-
-<br>
+> Nodejs
+> React 
+>JsJavascript
 ##### ⚡ - Currently working on:
 
 ```xml
  * Personal Projects and Study about stacks above
+```
 ```
