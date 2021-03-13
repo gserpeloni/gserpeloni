@@ -3,24 +3,3 @@
 
 Hi there, I'm Gustavo -- a junior developer and student of São Paulo State University.
 I look opportunities to improve my programming skills and use creativity to design good frontend applications. I like to program logical circuits such as RaspberryPi and  study new current technologies.
-
-##### ✨ - My Values
-
-> Facility on creating solutions and inovations.
->
-> Enjoys to meet new people and increase network contacts.
-
-
-##### 🌱 - I’m currently learning:
-> Nodejs
->
->React Js
->
->Javascript
-
-##### ⚡ - Currently working on:
-
-```xml
- * Personal Projects and Study about stacks above
-```
-```
