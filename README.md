@@ -1,9 +1,9 @@
 # 🌱  Hey, Nice to see you &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.icons8.com/color/42/000000/linkedin-circled--v3.png" style="padding-top:20px;"/>](https://www.linkedin.com/in/gustavoserpeloni/)
 
 
-> I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve my programming skills and use <strong>creativity</strong> to design good frontend and great backend applications. I like to program logical circuits such as <strong>RaspberryPi</strong> and  study new current technologies.
-Experience in backend and frontend projects with focus on <strong>REST API</strong> and microservices, using <strong>Relational Databases</strong>, prioritizing the <strong>Clean Code</strong> principles and applying <strong> automated tests </strong>.
-I have ability with <strong>team work</strong>, and <strong>creative solutions</strong>.
+I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve my programming skills and use <strong>creativity</strong> to design good frontend and great backend applications. I like to program logical circuits such as <strong>RaspberryPi</strong> and  study new current technologies.
+ 
+Experience in backend and frontend projects with focus on <strong>REST API</strong> and microservices, using <strong>Relational Databases</strong>, prioritizing the <strong>Clean Code</strong> principles and applying <strong> automated tests </strong>. I have ability with <strong>team work</strong>, and <strong>creative solutions</strong>.
 
 <br/> <br/> <br/>
 ### **👨🏽‍💻  &nbsp; Languages and Tools**
