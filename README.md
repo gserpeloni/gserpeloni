@@ -1,7 +1,7 @@
 # 🌱  Hey, Nice to see you
 
 I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve my programming skills and use <strong>creativity</strong> to design good frontend and great backend applications. I like to program logical circuits such as <strong>RaspberryPi</strong> and  study new current technologies.
-<br/> <br/>
+<br/> <br/> <br/> <br/>
 
 
 ### **👨🏽‍💻  &nbsp; Languages and Tools**
