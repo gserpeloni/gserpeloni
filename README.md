@@ -1,4 +1,5 @@
-# 🌱  Hey, Nice to see you
+# 🌱  Hey, Nice to see you &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.icons8.com/color/42/000000/linkedin-circled--v3.png" style="padding-top:20px;"/>](https://www.linkedin.com/in/gustavoserpeloni/)
+
 
 I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve my programming skills and use <strong>creativity</strong> to design good frontend and great backend applications. I like to program logical circuits such as <strong>RaspberryPi</strong> and  study new current technologies.
 <br/> <br/> <br/> <br/>
@@ -17,11 +18,4 @@ I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve 
 <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 </div>
-
-
-<br/><br/>
-
-### **📮  &nbsp; Social &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-> _______________________
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavoserpeloni/)
 
