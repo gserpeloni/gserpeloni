@@ -4,7 +4,7 @@ I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve 
 <br/> <br/>
 
 
-### 👨🏽‍💻 Languages and Tools    
+### **👨🏽‍💻  &nbsp; Languages and Tools**
 > ___________________________
 <div>
 <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> &nbsp;
@@ -21,6 +21,7 @@ I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve 
 
 <br/><br/>
 
-### 📮  Social &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+### **📮  &nbsp; Social &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+> _______________________
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavoserpeloni/)
 
