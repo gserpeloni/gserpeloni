@@ -5,7 +5,7 @@ I'm Gustavo Serpeloni a <strong>Software Developer</strong>. I look for improve 
  
 Experience in backend and frontend projects with focus on <strong>REST API</strong> and microservices, using <strong>Relational Databases</strong>, prioritizing the <strong>Clean Code</strong> principles and applying <strong> automated tests </strong>. I have ability with <strong>team work</strong>, and <strong>creative solutions</strong>.
 
-<br/> <br/> <br/>
+<br/> <br/>
 ### **👨🏽‍💻  &nbsp; Stacks and Tools**
 > ___________________________
 <div>
